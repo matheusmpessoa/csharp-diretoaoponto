@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpDiretoAoPonto/Program.cs">
+    <Files>
+      <File FileName="CsharpDiretoAoPonto/Operators.cs" />
+      <File FileName="CsharpDiretoAoPonto/Program.cs" Line="18" Column="1" />
+      <File FileName="CsharpDiretoAoPonto/Conversion.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CsharpDiretoAoPonto" expanded="True">
+            <Node name="CsharpDiretoAoPonto" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,4 +1,4 @@
-﻿partial class Conversion
+﻿class Conversion
 {
     static void Main(string[] args)
     {
