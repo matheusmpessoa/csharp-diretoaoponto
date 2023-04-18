@@ -1,25 +1,28 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{28A31909-F3EC-4980-95E2-61211AE6E208}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpDiretoAoPonto/WorkingWithStrings.cs">
+﻿<Properties StartupConfiguration="{28A31909-F3EC-4980-95E2-61211AE6E208}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="CsharpDiretoAoPonto/Directory.cs">
     <Files>
-      <File FileName="CsharpDiretoAoPonto/WorkingWithStrings.cs" Line="45" Column="1" />
+      <File FileName="CsharpDiretoAoPonto/LINQ.cs" />
+      <File FileName="CsharpDiretoAoPonto/DateTime.cs" />
+      <File FileName="CsharpDiretoAoPonto/DateTimeFormat.cs" />
+      <File FileName="CsharpDiretoAoPonto/Directory.cs" Line="35" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CsharpDiretoAoPonto" expanded="True">
             <Node name="CsharpDiretoAoPonto" expanded="True">
-              <Node name="WorkingWithStrings.cs" selected="True" />
+              <Node name="Directory.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CsharpDiretoAoPonto PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CsharpDiretoAoPonto PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
